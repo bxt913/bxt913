@@ -21,4 +21,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#10](https://github.com/GoOfficial/Roblox-C-External-by-Foulz/pull/10) in [GoOfficial/Roblox-C-External-by-Foulz](https://github.com/GoOfficial/Roblox-C-External-by-Foulz)
+2. ❗ Opened issue [#1](https://github.com/noob123ii/SkidAuth/issues/1) in [noob123ii/SkidAuth](https://github.com/noob123ii/SkidAuth)
+3. 🗣 Commented on [#5](https://github.com/heycanihavethis/Poison/issues/5#issuecomment-6044124740) in [heycanihavethis/Poison](https://github.com/heycanihavethis/Poison)
+4. ❗ Opened issue [#11](https://github.com/GorillaTagModdingHub/GorillaLibrary/issues/11) in [GorillaTagModdingHub/GorillaLibrary](https://github.com/GorillaTagModdingHub/GorillaLibrary)
+5. 🎉 Merged PR [#3](https://github.com/heycanihavethis/Poison/pull/3) in [heycanihavethis/Poison](https://github.com/heycanihavethis/Poison)
 <!--END_SECTION:activity-->
