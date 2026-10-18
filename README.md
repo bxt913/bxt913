@@ -1,34 +1,20 @@
 
+## Web Development
 
-###
+[![My Skills](https://skillicons.dev/icons?i=cs,python)](https://skillicons.dev)
 
-<h2 align="center">about me</h2>
+## Development
 
-###
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,css,python)](https://skillicons.dev)
 
-<p align="center">🩵 my favorite color is blue </p>
-<p align="center">😈 i like hyperpop, especially <a href="https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB"><img src="https://img.shields.io/badge/NOVAGANG-1DB954?logo=spotify&logoColor=black" /></a></p>
-<p align="center">🏳️‍🌈 pansexual femboy :3</p>
+## Development Tools 
 
-###
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,discord,mongodb)](https://skillicons.dev)
 
-<h2 align="center">languages/programs/librarys that i use</h2>
+## Other Skills
+[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 
-###
+## Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,)](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,mongodb,visualstudio,unity,androidstudio&perline=4"/>
-</div>
-
-
-###
-
-<h2 align="center">badges</h2>
-
-###
-
-<p align="center">  
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bxt913" alt="GitHub Streak" /></a>
-  <br/><br/>
-  <a href="https://noskid.today"><img src="https://noskid.today/badge/470x200/?repo=awesomekittycat68/repository" alt="NoSkid Verification" /></a>
-</p>
+![Snake animation](https://github.com/bxt913/contribution_snake/blob/main/dist/github-contribution-grid-snake.svg)
