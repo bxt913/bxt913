@@ -18,3 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,html,css,js,ts,)](https://skillicons.dev)
 
 ![Snake animation](https://github.com/bxt913/contribution_snake/blob/main/dist/github-contribution-grid-snake.svg)
+
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
