@@ -5,7 +5,7 @@
 
 ## Development
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python)](https://skillicons.dev)
 
 ## Development Tools 
 
