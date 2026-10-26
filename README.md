@@ -25,5 +25,5 @@
 2. 🔒 Closed issue [#3](https://github.com/ehkogh/OpenPhoton/issues/3) in [ehkogh/OpenPhoton](https://github.com/ehkogh/OpenPhoton)
 3. 🗣 Commented on [#14](https://github.com/heycanihavethis/Poison/issues/14#issuecomment-6334439714) in [heycanihavethis/Poison](https://github.com/heycanihavethis/Poison)
 4. ❗ Opened issue [#3](https://github.com/ehkogh/OpenPhoton/issues/3) in [ehkogh/OpenPhoton](https://github.com/ehkogh/OpenPhoton)
-5. 💪 Opened PR [#10](https://github.com/GoOfficial/Roblox-C-External-by-Foulz/pull/10) in [GoOfficial/Roblox-C-External-by-Foulz](https://github.com/GoOfficial/Roblox-C-External-by-Foulz)
+5. 💪 Opened PR [#10](https://github.com/foulzers/Roblox-C-External-by-Foulz/pull/10) in [foulzers/Roblox-C-External-by-Foulz](https://github.com/foulzers/Roblox-C-External-by-Foulz)
 <!--END_SECTION:activity-->
